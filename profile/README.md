@@ -1,8 +1,8 @@
 ![RIUS Network](https://avatars.githubusercontent.com/u/190960797?s=200&v=4)
 
-# Welcome to RIUS Network!
+# Welcome to SunVria!
 
-RIUS Network is preparing to bring a brand-new adventure to the world of Minecraft: Bedrock Edition! We're dedicated to providing players with an unforgettable experience, and the launch is just around the corner.
+SunVria is preparing to bring a brand-new adventure to the world of Minecraft: Bedrock Edition! We're dedicated to providing players with an unforgettable experience, and the launch is just around the corner.
 
 Our team consists of passionate developers from all around the world. Our goal is to create creative and fun gaming experiences that cater to players of all levels.
 
