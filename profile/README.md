@@ -12,7 +12,7 @@ Our team consists of passionate developers from all around the world. Our goal i
 - **Community-Focused**: We develop our content based on feedback from our community.
 - **Growing Infrastructure**: As our server grows, we’re building a strong infrastructure to ensure a seamless experience.
 
-## Why RIUS Network?
+## Why SunVria?
 
 - **Fun Gameplay**: Always fresh, innovative, and engaging game modes.
 - **Global Team**: A strong team of developers from all over the world.
